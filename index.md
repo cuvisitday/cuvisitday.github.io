@@ -25,6 +25,15 @@ about your interests and share our exicitng research!
 
 # Faculty
 
+<!-- 
+  add name and areas using the following tags:
+  <db/>
+  <os/>
+  <apps/>
+  <security/>
+  <net/>
+  <hard/>
+-->
 
 * [Eugene Wu](http://www.eugenewu.net) <db/>
 * [Suman Jana](http://sumanj.info/) <os/><security/>
